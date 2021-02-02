@@ -9,4 +9,3 @@ dependencies:
   - pip:
     - pulp
     - pydfs-lineup-optimizer
-    - pangadfs==0.1.1
