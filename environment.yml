@@ -6,9 +6,7 @@ dependencies:
   - pandas
   - numpy
   - pip
-  - matplotlib
-  - seaborn
   - pip:
     - pulp
     - pydfs-lineup-optimizer
-    - pangadfs
+    - pangadfs==0.1.1
